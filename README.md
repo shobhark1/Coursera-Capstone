@@ -8,7 +8,7 @@ Study to help open a new restaurant in Toronto in the right location by looking 
 # Data
 Foursquare API can be used  to collect information on competitors 
 
-To give an insid=gth on the demmmographics of populaiton and neighborhood
+To give an insight on the demmgraphics,populaiton and neighborhood
 
 
 Toronto's 2016 Census that contains Population, Average income per Neighborhood 
