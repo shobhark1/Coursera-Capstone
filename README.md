@@ -8,7 +8,10 @@ Study to help open a new restaurant in Toronto in the right location by looking 
 # Data
 Foursquare API can be used  to collect information on competitors 
 
-Toronto's 2016 Census that contains Population, Average income per Neighborhood can give insight on the demographics and population
+To give an insid=gth on the demmmographics of populaiton and neighborhood
+
+
+Toronto's 2016 Census that contains Population, Average income per Neighborhood 
 
 Toronto's Census data -: https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#8c732154-5012-9afe-d0cd-ba3ffc813d5a
 
@@ -16,4 +19,4 @@ Toronto's Census data -: https://www.toronto.ca/city-government/data-research-ma
 Toronoto's Neighborhoods shapefile
 
 Toronto Neighborhoods' shapefile-: https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#a45bd45a-ede8-730e-1abc-93105b2c439f
-xsd
+
