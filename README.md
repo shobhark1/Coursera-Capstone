@@ -2,9 +2,10 @@
 Clearly define a problem or an idea of your choice, where you would need to leverage the Foursquare location data to solve or execute. Remember that data science problems always target an audience and are meant to help a group of stakeholders solve a problem, so make sure that you explicitly describe your audience and why they would care about your problem.
 
 # Introduction/Business Problem 
-New York is a big city and is most populous and most densely populated city in the United States. The city has a diverse culture and has been the premier gateway for legal immigrants. This makes it the most culturally and linguistically diverse city an in the world. This also means that New York offers a diverse cuisine and varied restaurants. 
+New York is a big city and is most populous and most densely populated city in the United States. The city has a diverse culture and has been the premier gateway for legal immigrants. This makes it the most culturally and linguistically diverse city in the world. This also means that New York offers a diverse cuisine and varied restaurants. 
 
-This analysis will try to help an hotelier gauge on which will be the best location in New York to open an Indian restaurant
+This analysis will try to help an hotelier gauge on which will be the best location in New York to open an Indian restaurant.
+This case can easily be applied to any restaurant to be opened and will help hoteliers gauge the market and neighborhood to get into restaurants business
 
 
 # Data
@@ -29,8 +30,20 @@ Use folium to visualize via maps
  
   
 # Discussion 
-There are 5 Boroughs and 306 neighborhoods in New York
-Queens has most number of neighborhood followed by Brooklyn
+Most liked restaurant is also the most tipped one
+Manhattan seems to be the best place for Indian restaurants 
+   followed by Brooklyn
+Queens has largest number of Indian restaurants followed by Brooklyn 
+    and then Manhattan
+Floral Park in Brooklyn has maximum Indian restaurants
+Rating of restaurants is best in Manhattan followed by Brooklyn
+
+
 
 # Conclusion 
-section where you conclude the report.
+Manhattan seems to be the best place for Indian restaurants 
+   followed by Brooklyn
+Though Queens has largest number of Indian restaurants , 
+    Indian restaurants are more liked and favored in Manhattan followed by     
+    Brooklyn
+
